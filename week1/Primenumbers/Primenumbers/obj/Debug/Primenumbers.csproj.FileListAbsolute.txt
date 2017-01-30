@@ -1,0 +1,6 @@
+C:\Users\Даурен\Desktop\visual std projects\Primenumbers\Primenumbers\bin\Debug\Primenumbers.exe.config
+C:\Users\Даурен\Desktop\visual std projects\Primenumbers\Primenumbers\bin\Debug\Primenumbers.exe
+C:\Users\Даурен\Desktop\visual std projects\Primenumbers\Primenumbers\bin\Debug\Primenumbers.pdb
+C:\Users\Даурен\Desktop\visual std projects\Primenumbers\Primenumbers\obj\Debug\Primenumbers.csprojResolveAssemblyReference.cache
+C:\Users\Даурен\Desktop\visual std projects\Primenumbers\Primenumbers\obj\Debug\Primenumbers.exe
+C:\Users\Даурен\Desktop\visual std projects\Primenumbers\Primenumbers\obj\Debug\Primenumbers.pdb
