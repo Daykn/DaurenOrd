@@ -1,0 +1,9 @@
+C:\Users\Даурен\Desktop\practise\Сlass student\Сlass student\bin\Debug\Сlass student.exe.config
+C:\Users\Даурен\Desktop\practise\Сlass student\Сlass student\bin\Debug\Сlass student.exe
+C:\Users\Даурен\Desktop\practise\Сlass student\Сlass student\bin\Debug\Сlass student.pdb
+C:\Users\Даурен\Desktop\practise\Сlass student\Сlass student\obj\Debug\Сlass student.csprojResolveAssemblyReference.cache
+C:\Users\Даурен\Desktop\practise\Сlass student\Сlass student\obj\Debug\Сlass student.exe
+C:\Users\Даурен\Desktop\practise\Сlass student\Сlass student\obj\Debug\Сlass student.pdb
+D:\DaurenOrd\Сlass_student\Сlass student\bin\Debug\Сlass student.exe.config
+D:\DaurenOrd\Сlass_student\Сlass student\obj\Debug\Сlass student.exe
+D:\DaurenOrd\Сlass_student\Сlass student\obj\Debug\Сlass student.pdb
