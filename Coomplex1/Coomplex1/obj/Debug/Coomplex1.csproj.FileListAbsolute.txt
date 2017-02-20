@@ -4,3 +4,6 @@ C:\Users\Даурен\Desktop\practise\Coomplex1\Coomplex1\bin\Debug\Coomplex1.p
 C:\Users\Даурен\Desktop\practise\Coomplex1\Coomplex1\obj\Debug\Coomplex1.csprojResolveAssemblyReference.cache
 C:\Users\Даурен\Desktop\practise\Coomplex1\Coomplex1\obj\Debug\Coomplex1.exe
 C:\Users\Даурен\Desktop\practise\Coomplex1\Coomplex1\obj\Debug\Coomplex1.pdb
+D:\DaurenOrd\Coomplex1\Coomplex1\bin\Debug\Coomplex1.exe.config
+D:\DaurenOrd\Coomplex1\Coomplex1\obj\Debug\Coomplex1.exe
+D:\DaurenOrd\Coomplex1\Coomplex1\obj\Debug\Coomplex1.pdb

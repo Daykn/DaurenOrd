@@ -4,3 +4,9 @@ C:\Users\Даурен\Desktop\visual std projects\Primenumbers\Primenumbers\bin\
 C:\Users\Даурен\Desktop\visual std projects\Primenumbers\Primenumbers\obj\Debug\Primenumbers.csprojResolveAssemblyReference.cache
 C:\Users\Даурен\Desktop\visual std projects\Primenumbers\Primenumbers\obj\Debug\Primenumbers.exe
 C:\Users\Даурен\Desktop\visual std projects\Primenumbers\Primenumbers\obj\Debug\Primenumbers.pdb
+D:\DaurenOrd\week1\Primenumbers\Primenumbers\bin\Debug\Primenumbers.exe.config
+D:\DaurenOrd\week1\Primenumbers\Primenumbers\obj\Debug\Primenumbers.exe
+D:\DaurenOrd\week1\Primenumbers\Primenumbers\obj\Debug\Primenumbers.pdb
+D:\DaurenOrd\week1\Primenumbers\Primenumbers\bin\Debug\Primenumbers.exe
+D:\DaurenOrd\week1\Primenumbers\Primenumbers\bin\Debug\Primenumbers.pdb
+D:\DaurenOrd\week1\Primenumbers\Primenumbers\obj\Debug\Primenumbers.csprojResolveAssemblyReference.cache
