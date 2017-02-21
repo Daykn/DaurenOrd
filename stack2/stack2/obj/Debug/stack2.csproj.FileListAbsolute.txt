@@ -1,0 +1,6 @@
+C:\Users\Даурен\Desktop\practise\stack2\stack2\bin\Debug\stack2.exe.config
+C:\Users\Даурен\Desktop\practise\stack2\stack2\bin\Debug\stack2.exe
+C:\Users\Даурен\Desktop\practise\stack2\stack2\bin\Debug\stack2.pdb
+C:\Users\Даурен\Desktop\practise\stack2\stack2\obj\Debug\stack2.csprojResolveAssemblyReference.cache
+C:\Users\Даурен\Desktop\practise\stack2\stack2\obj\Debug\stack2.exe
+C:\Users\Даурен\Desktop\practise\stack2\stack2\obj\Debug\stack2.pdb
