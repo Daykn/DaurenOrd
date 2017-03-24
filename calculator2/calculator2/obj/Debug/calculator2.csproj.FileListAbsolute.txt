@@ -1,0 +1,9 @@
+C:\Users\Даурен\Desktop\practise\calculator2\calculator2\bin\Debug\calculator2.exe.config
+C:\Users\Даурен\Desktop\practise\calculator2\calculator2\bin\Debug\calculator2.exe
+C:\Users\Даурен\Desktop\practise\calculator2\calculator2\bin\Debug\calculator2.pdb
+C:\Users\Даурен\Desktop\practise\calculator2\calculator2\obj\Debug\calculator2.csprojResolveAssemblyReference.cache
+C:\Users\Даурен\Desktop\practise\calculator2\calculator2\obj\Debug\calculator2.Form1.resources
+C:\Users\Даурен\Desktop\practise\calculator2\calculator2\obj\Debug\calculator2.Properties.Resources.resources
+C:\Users\Даурен\Desktop\practise\calculator2\calculator2\obj\Debug\calculator2.csproj.GenerateResource.Cache
+C:\Users\Даурен\Desktop\practise\calculator2\calculator2\obj\Debug\calculator2.exe
+C:\Users\Даурен\Desktop\practise\calculator2\calculator2\obj\Debug\calculator2.pdb

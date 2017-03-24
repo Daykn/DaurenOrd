@@ -1,0 +1,6 @@
+C:\Users\Даурен\Desktop\clock\clock\bin\Debug\clock.exe.config
+C:\Users\Даурен\Desktop\clock\clock\bin\Debug\clock.exe
+C:\Users\Даурен\Desktop\clock\clock\bin\Debug\clock.pdb
+C:\Users\Даурен\Desktop\clock\clock\obj\Debug\clock.csprojResolveAssemblyReference.cache
+C:\Users\Даурен\Desktop\clock\clock\obj\Debug\clock.exe
+C:\Users\Даурен\Desktop\clock\clock\obj\Debug\clock.pdb
