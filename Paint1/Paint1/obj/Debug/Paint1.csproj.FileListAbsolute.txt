@@ -1,0 +1,9 @@
+C:\Users\Даурен\Desktop\practise\Paint1\Paint1\bin\Debug\Paint1.exe.config
+C:\Users\Даурен\Desktop\practise\Paint1\Paint1\bin\Debug\Paint1.exe
+C:\Users\Даурен\Desktop\practise\Paint1\Paint1\bin\Debug\Paint1.pdb
+C:\Users\Даурен\Desktop\practise\Paint1\Paint1\obj\Debug\Paint1.csprojResolveAssemblyReference.cache
+C:\Users\Даурен\Desktop\practise\Paint1\Paint1\obj\Debug\Paint1.Form1.resources
+C:\Users\Даурен\Desktop\practise\Paint1\Paint1\obj\Debug\Paint1.Properties.Resources.resources
+C:\Users\Даурен\Desktop\practise\Paint1\Paint1\obj\Debug\Paint1.csproj.GenerateResource.Cache
+C:\Users\Даурен\Desktop\practise\Paint1\Paint1\obj\Debug\Paint1.exe
+C:\Users\Даурен\Desktop\practise\Paint1\Paint1\obj\Debug\Paint1.pdb
