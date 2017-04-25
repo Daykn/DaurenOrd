@@ -1,0 +1,9 @@
+C:\Users\Даурен\Desktop\practise\prikol\prikol\bin\Debug\prikol.exe.config
+C:\Users\Даурен\Desktop\practise\prikol\prikol\bin\Debug\prikol.exe
+C:\Users\Даурен\Desktop\practise\prikol\prikol\bin\Debug\prikol.pdb
+C:\Users\Даурен\Desktop\practise\prikol\prikol\obj\Debug\prikol.csprojResolveAssemblyReference.cache
+C:\Users\Даурен\Desktop\practise\prikol\prikol\obj\Debug\prikol.Form1.resources
+C:\Users\Даурен\Desktop\practise\prikol\prikol\obj\Debug\prikol.Properties.Resources.resources
+C:\Users\Даурен\Desktop\practise\prikol\prikol\obj\Debug\prikol.csproj.GenerateResource.Cache
+C:\Users\Даурен\Desktop\practise\prikol\prikol\obj\Debug\prikol.exe
+C:\Users\Даурен\Desktop\practise\prikol\prikol\obj\Debug\prikol.pdb
