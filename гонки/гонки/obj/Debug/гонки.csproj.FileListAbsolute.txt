@@ -1,0 +1,9 @@
+C:\Users\Даурен\Desktop\practise\гонки\гонки\bin\Debug\гонки.exe.config
+C:\Users\Даурен\Desktop\practise\гонки\гонки\bin\Debug\гонки.exe
+C:\Users\Даурен\Desktop\practise\гонки\гонки\bin\Debug\гонки.pdb
+C:\Users\Даурен\Desktop\practise\гонки\гонки\obj\Debug\гонки.csprojResolveAssemblyReference.cache
+C:\Users\Даурен\Desktop\practise\гонки\гонки\obj\Debug\гонки.Form1.resources
+C:\Users\Даурен\Desktop\practise\гонки\гонки\obj\Debug\гонки.Properties.Resources.resources
+C:\Users\Даурен\Desktop\practise\гонки\гонки\obj\Debug\гонки.csproj.GenerateResource.Cache
+C:\Users\Даурен\Desktop\practise\гонки\гонки\obj\Debug\гонки.exe
+C:\Users\Даурен\Desktop\practise\гонки\гонки\obj\Debug\гонки.pdb
