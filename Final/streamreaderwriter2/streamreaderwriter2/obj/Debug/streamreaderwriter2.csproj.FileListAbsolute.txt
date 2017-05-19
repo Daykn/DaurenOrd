@@ -1,0 +1,6 @@
+C:\Users\Даурен\Desktop\practise\Final\streamreaderwriter2\streamreaderwriter2\bin\Debug\streamreaderwriter2.exe.config
+C:\Users\Даурен\Desktop\practise\Final\streamreaderwriter2\streamreaderwriter2\bin\Debug\streamreaderwriter2.exe
+C:\Users\Даурен\Desktop\practise\Final\streamreaderwriter2\streamreaderwriter2\bin\Debug\streamreaderwriter2.pdb
+C:\Users\Даурен\Desktop\practise\Final\streamreaderwriter2\streamreaderwriter2\obj\Debug\streamreaderwriter2.csprojResolveAssemblyReference.cache
+C:\Users\Даурен\Desktop\practise\Final\streamreaderwriter2\streamreaderwriter2\obj\Debug\streamreaderwriter2.exe
+C:\Users\Даурен\Desktop\practise\Final\streamreaderwriter2\streamreaderwriter2\obj\Debug\streamreaderwriter2.pdb

@@ -1,0 +1,6 @@
+C:\Users\Даурен\Desktop\practise\Final\StreamReaderWriter\StreamReaderWriter\bin\Debug\StreamReaderWriter.exe.config
+C:\Users\Даурен\Desktop\practise\Final\StreamReaderWriter\StreamReaderWriter\bin\Debug\StreamReaderWriter.exe
+C:\Users\Даурен\Desktop\practise\Final\StreamReaderWriter\StreamReaderWriter\bin\Debug\StreamReaderWriter.pdb
+C:\Users\Даурен\Desktop\practise\Final\StreamReaderWriter\StreamReaderWriter\obj\Debug\StreamReaderWriter.csprojResolveAssemblyReference.cache
+C:\Users\Даурен\Desktop\practise\Final\StreamReaderWriter\StreamReaderWriter\obj\Debug\StreamReaderWriter.exe
+C:\Users\Даурен\Desktop\practise\Final\StreamReaderWriter\StreamReaderWriter\obj\Debug\StreamReaderWriter.pdb

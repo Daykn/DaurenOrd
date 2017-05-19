@@ -1,0 +1,6 @@
+C:\Users\Даурен\Desktop\practise\Final\primenum\primenum\bin\Debug\primenum.exe.config
+C:\Users\Даурен\Desktop\practise\Final\primenum\primenum\bin\Debug\primenum.exe
+C:\Users\Даурен\Desktop\practise\Final\primenum\primenum\bin\Debug\primenum.pdb
+C:\Users\Даурен\Desktop\practise\Final\primenum\primenum\obj\Debug\primenum.csprojResolveAssemblyReference.cache
+C:\Users\Даурен\Desktop\practise\Final\primenum\primenum\obj\Debug\primenum.exe
+C:\Users\Даурен\Desktop\practise\Final\primenum\primenum\obj\Debug\primenum.pdb

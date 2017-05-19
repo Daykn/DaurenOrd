@@ -1,0 +1,5 @@
+C:\Users\Даурен\Desktop\practise\Final\Threading\Threading\bin\Debug\Threading.exe.config
+C:\Users\Даурен\Desktop\practise\Final\Threading\Threading\bin\Debug\Threading.exe
+C:\Users\Даурен\Desktop\practise\Final\Threading\Threading\bin\Debug\Threading.pdb
+C:\Users\Даурен\Desktop\practise\Final\Threading\Threading\obj\Debug\Threading.exe
+C:\Users\Даурен\Desktop\practise\Final\Threading\Threading\obj\Debug\Threading.pdb

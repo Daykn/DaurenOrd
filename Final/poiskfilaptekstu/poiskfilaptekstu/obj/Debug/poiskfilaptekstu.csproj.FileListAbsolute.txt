@@ -1,0 +1,6 @@
+C:\Users\Даурен\Desktop\practise\Final\poiskfilaptekstu\poiskfilaptekstu\bin\Debug\poiskfilaptekstu.exe.config
+C:\Users\Даурен\Desktop\practise\Final\poiskfilaptekstu\poiskfilaptekstu\bin\Debug\poiskfilaptekstu.exe
+C:\Users\Даурен\Desktop\practise\Final\poiskfilaptekstu\poiskfilaptekstu\bin\Debug\poiskfilaptekstu.pdb
+C:\Users\Даурен\Desktop\practise\Final\poiskfilaptekstu\poiskfilaptekstu\obj\Debug\poiskfilaptekstu.csprojResolveAssemblyReference.cache
+C:\Users\Даурен\Desktop\practise\Final\poiskfilaptekstu\poiskfilaptekstu\obj\Debug\poiskfilaptekstu.exe
+C:\Users\Даурен\Desktop\practise\Final\poiskfilaptekstu\poiskfilaptekstu\obj\Debug\poiskfilaptekstu.pdb

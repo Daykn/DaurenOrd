@@ -1,0 +1,6 @@
+C:\Users\Даурен\Desktop\practise\Final\MiniSnake\MiniSnake\bin\Debug\MiniSnake.exe.config
+C:\Users\Даурен\Desktop\practise\Final\MiniSnake\MiniSnake\bin\Debug\MiniSnake.exe
+C:\Users\Даурен\Desktop\practise\Final\MiniSnake\MiniSnake\bin\Debug\MiniSnake.pdb
+C:\Users\Даурен\Desktop\practise\Final\MiniSnake\MiniSnake\obj\Debug\MiniSnake.csprojResolveAssemblyReference.cache
+C:\Users\Даурен\Desktop\practise\Final\MiniSnake\MiniSnake\obj\Debug\MiniSnake.exe
+C:\Users\Даурен\Desktop\practise\Final\MiniSnake\MiniSnake\obj\Debug\MiniSnake.pdb

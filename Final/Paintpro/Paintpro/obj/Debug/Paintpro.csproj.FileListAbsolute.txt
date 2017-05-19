@@ -1,0 +1,8 @@
+C:\Users\Даурен\Desktop\practise\Final\Paintpro\Paintpro\bin\Debug\Paintpro.exe.config
+C:\Users\Даурен\Desktop\practise\Final\Paintpro\Paintpro\bin\Debug\Paintpro.exe
+C:\Users\Даурен\Desktop\practise\Final\Paintpro\Paintpro\bin\Debug\Paintpro.pdb
+C:\Users\Даурен\Desktop\practise\Final\Paintpro\Paintpro\obj\Debug\Paintpro.Form1.resources
+C:\Users\Даурен\Desktop\practise\Final\Paintpro\Paintpro\obj\Debug\Paintpro.Properties.Resources.resources
+C:\Users\Даурен\Desktop\practise\Final\Paintpro\Paintpro\obj\Debug\Paintpro.csproj.GenerateResource.Cache
+C:\Users\Даурен\Desktop\practise\Final\Paintpro\Paintpro\obj\Debug\Paintpro.exe
+C:\Users\Даурен\Desktop\practise\Final\Paintpro\Paintpro\obj\Debug\Paintpro.pdb

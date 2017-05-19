@@ -1,0 +1,6 @@
+C:\Users\Даурен\Desktop\practise\Final\firstpro\firstpro\bin\Debug\firstpro.exe.config
+C:\Users\Даурен\Desktop\practise\Final\firstpro\firstpro\bin\Debug\firstpro.exe
+C:\Users\Даурен\Desktop\practise\Final\firstpro\firstpro\bin\Debug\firstpro.pdb
+C:\Users\Даурен\Desktop\practise\Final\firstpro\firstpro\obj\Debug\firstpro.csprojResolveAssemblyReference.cache
+C:\Users\Даурен\Desktop\practise\Final\firstpro\firstpro\obj\Debug\firstpro.exe
+C:\Users\Даурен\Desktop\practise\Final\firstpro\firstpro\obj\Debug\firstpro.pdb

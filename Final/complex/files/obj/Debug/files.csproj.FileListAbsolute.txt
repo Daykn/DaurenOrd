@@ -1,0 +1,6 @@
+C:\Users\Даурен\Desktop\practise\Final\files\files\bin\Debug\files.exe.config
+C:\Users\Даурен\Desktop\practise\Final\files\files\bin\Debug\files.exe
+C:\Users\Даурен\Desktop\practise\Final\files\files\bin\Debug\files.pdb
+C:\Users\Даурен\Desktop\practise\Final\files\files\obj\Debug\files.csprojResolveAssemblyReference.cache
+C:\Users\Даурен\Desktop\practise\Final\files\files\obj\Debug\files.exe
+C:\Users\Даурен\Desktop\practise\Final\files\files\obj\Debug\files.pdb

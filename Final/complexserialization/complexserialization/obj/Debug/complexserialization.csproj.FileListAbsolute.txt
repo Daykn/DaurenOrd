@@ -1,0 +1,6 @@
+C:\Users\Даурен\Desktop\practise\Final\complexserialization\complexserialization\bin\Debug\complexserialization.exe.config
+C:\Users\Даурен\Desktop\practise\Final\complexserialization\complexserialization\bin\Debug\complexserialization.exe
+C:\Users\Даурен\Desktop\practise\Final\complexserialization\complexserialization\bin\Debug\complexserialization.pdb
+C:\Users\Даурен\Desktop\practise\Final\complexserialization\complexserialization\obj\Debug\complexserialization.csprojResolveAssemblyReference.cache
+C:\Users\Даурен\Desktop\practise\Final\complexserialization\complexserialization\obj\Debug\complexserialization.exe
+C:\Users\Даурен\Desktop\practise\Final\complexserialization\complexserialization\obj\Debug\complexserialization.pdb
